@@ -2,7 +2,7 @@
 
 Sistema de estratégia e produção de conteúdo para Instagram, feito para donos de negócio, especialistas e criadores que vendem serviço, mentoria ou produto digital. Roda dentro de qualquer assistente de IA que consiga ler uma URL (Claude, ChatGPT, Gemini).
 
-Adaptação do [Hat Tip LinkedIn OS](https://github.com/ChristianDiBratto25/hattip-linkedin-os), de Christian Di Bratto, para as regras do Instagram: vídeo, retenção nos primeiros segundos, stories, DM como canal de venda e métricas próprias.
+Construído em volta do que o Instagram exige: vídeo, retenção nos primeiros segundos, stories, DM como canal de venda e métricas próprias.
 
 ## Como usar
 
@@ -35,4 +35,4 @@ Cada etapa aprovada vira um documento. Salve e cole numa próxima conversa junto
 
 ## Licença
 
-MIT. Veja [LICENSE](LICENSE). O trabalho original do Hat Tip LinkedIn OS também é MIT e está creditado lá.
+MIT. Veja [LICENSE](LICENSE).
