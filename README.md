@@ -1,5 +1,7 @@
 # Instagram OS
 
+> Novo: este sistema agora faz parte do [Content OS](https://github.com/Synaptica24/content-os), que junta YouTube, Instagram, LinkedIn e X numa base única. Este repositório continua funcionando para quem já usa.
+
 Sistema de estratégia e produção de conteúdo para Instagram, feito para donos de negócio, especialistas e criadores que vendem serviço, mentoria ou produto digital. Roda dentro de qualquer assistente de IA que consiga ler uma URL (Claude, ChatGPT, Gemini).
 
 Construído em volta do que o Instagram exige: vídeo, retenção nos primeiros segundos, stories, DM como canal de venda e métricas próprias.
