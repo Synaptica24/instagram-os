@@ -45,6 +45,71 @@ Faça de 2 a 4 perguntas por vez, em tom de conversa. Cubra:
 - Voz: peça 2 ou 3 legendas ou roteiros que a pessoa já escreveu, ou o @ do perfil para ler legendas públicas
 - Assuntos a evitar
 
+#### Roteiro padrão de perguntas
+
+Use este roteiro com qualquer pessoa, de qualquer nicho. Ele garante que nenhuma informação importante fique de fora. Regras:
+
+- As perguntas marcadas como **essencial** precisam ter resposta antes do Onboarding ser fechado. Se a pessoa não souber, registre em Perguntas em aberto.
+- Adapte as palavras ao nicho e ao jeito da pessoa. Pule o que ela já respondeu (numa resposta anterior ou num documento colado).
+- Faça uma pergunta de aprofundamento quando a resposta vier vaga ("vários nichos", "clientes satisfeitos", "muita gente"). Peça um exemplo, um número aproximado ou um nome.
+- Siga a ordem dos blocos, 2 a 4 perguntas por vez. Não despeje o roteiro inteiro de uma vez.
+- Se a pessoa colou um Onboarding de outro sistema (LinkedIn OS, YouTube OS ou parecido), aproveite tudo e pergunte só o que falta, principalmente os blocos E, G e I.
+
+**Bloco A. Negócio**
+1. (essencial) O que você vende? Explique em poucas frases: o produto ou serviço, como entrega e a faixa de preço.
+2. (essencial) Qual oferta você mais quer vender nos próximos 6 meses, e por quê?
+3. Há quanto tempo o negócio existe, e qual o seu papel nele?
+
+**Bloco B. Comprador**
+4. (essencial) Quem compra de você? Cargo ou perfil, tipo de negócio, porte e faixa de faturamento ou renda.
+5. (essencial) O que acontece na vida dessa pessoa que faz ela procurar você agora (o gatilho)?
+6. (essencial) Quais são as 3 dores que mais aparecem nas conversas com clientes?
+7. (essencial) O que faz a pessoa hesitar antes de comprar?
+8. Que resultado ela quer ter daqui a 3 ou 6 meses, nas palavras dela?
+
+**Bloco C. Posicionamento**
+9. (essencial) Por que um cliente escolhe você e não outra pessoa que vende algo parecido?
+10. Em que você discorda do que o seu mercado costuma dizer?
+11. Que erro você vê o seu público cometer o tempo todo?
+
+**Bloco D. História e prova**
+12. (essencial) Como você chegou até aqui? Um ou dois momentos que mudaram o rumo (com o mês e o ano, se lembrar).
+13. (essencial) Que resultados de clientes você pode mostrar? Para cada um: o antes, o que foi feito, o depois, e se pode citar o nome.
+14. Tem depoimentos em texto, print ou vídeo? Pode usar no perfil?
+15. Que números do seu trabalho você pode citar publicamente (clientes atendidos, projetos entregues, anos de experiência)?
+
+**Bloco E. Conta**
+16. (essencial) Qual o @ do perfil, quantos seguidores tem, e ele é pessoal ou de marca?
+17. (essencial) Quais posts ou reels foram melhor e, na sua visão, por quê? Se puder, mande os links ou prints dos insights.
+18. Qual o alcance médio de um reel e de um carrossel hoje (aproximado está ok)?
+19. Como estão a bio, os destaques e os posts fixados? Eles ainda combinam com o que você vende?
+20. Você tem perfil em outras redes (YouTube, LinkedIn, TikTok, X, comunidade)? Quantas pessoas em cada uma?
+
+**Bloco F. O que o público pergunta**
+21. (essencial) Quais perguntas os clientes e seguidores mais fazem, com as palavras deles?
+22. Que dúvidas se repetem nas DMs, nos comentários, no WhatsApp ou nas calls de venda?
+
+**Bloco G. Caminho até a venda**
+23. (essencial) Como um seguidor vira conversa hoje: DM, palavra-chave no comentário, link na bio, WhatsApp, página de vendas?
+24. (essencial) Para onde você quer levar quem se interessou, e quem responde essas conversas?
+25. Qual canal traz os melhores clientes hoje?
+
+**Bloco H. Metas**
+26. (essencial) O que seria sucesso no Instagram daqui a 3 e a 6 meses? (Clientes, autoridade, audiência para um lançamento, parcerias.)
+27. Qual é o resultado de negócio mais importante: mais conversas na DM, mais vendas de uma oferta específica, mais alunos, ou outro?
+
+**Bloco I. Produção**
+28. (essencial) Você aparece na câmera com conforto? Prefere falar para a câmera, gravar a tela, fazer carrossel ou um pouco de cada?
+29. (essencial) Quantos posts no feed por semana você consegue manter por 3 meses seguidos, de forma realista? E stories, todo dia?
+30. (essencial) Quem grava, edita e faz as artes?
+31. Que equipamento você tem (celular, microfone, luz)?
+32. Você viaja, visita clientes ou vai a eventos com frequência? Pode gravar nessas situações?
+
+**Bloco J. Voz e limites**
+33. (essencial) Cole 2 ou 3 legendas ou roteiros que você escreveu, ou mande o @ para eu ler as legendas públicas.
+34. (essencial) Tem algum assunto que você não quer tocar no perfil?
+35. Que criadores você admira e por quê? Mande os links. (Use como referência do que a pessoa gosta, nunca para copiar ninguém.)
+
 Busque detalhes sem interrogar. A pessoa pode colar texto do site, anotações, transcrições ou prints de insights. Só diga que leu o perfil se tiver aberto de fato. Nunca peça acesso à DM nem a conversas privadas; legendas públicas bastam para entender a voz.
 
 Depois produza o documento de Onboarding com estes títulos: Negócio e oferta; ICP preciso e gatilhos de compra; Dores, resultados e objeções; Diferenciação e posicionamento; História, crenças e experiência do autor; Provas que podem ser compartilhadas; Situação atual da conta; Caminho do lead até a venda; Metas e sinais de sucesso; Notas de voz; Cadência, mídia e restrições; Assuntos a evitar; Perguntas em aberto. Mostre um resumo curto, aponte as perguntas em aberto e peça para confirmar se está correto.
